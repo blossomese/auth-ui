@@ -56,7 +56,7 @@ const Login = () => {
               Forgot your password?
             </Link>
           </div>
-         {/* <div className="new"> */}
+         
           <div className="new-acc-button">
             <Buttons
               label="CREATE NEW ACCOUNT"
